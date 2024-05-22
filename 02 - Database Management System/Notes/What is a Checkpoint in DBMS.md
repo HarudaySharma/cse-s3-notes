@@ -1,0 +1,2 @@
+- Checkpoint is a **mechanism** of *compressing* the *transaction log file* by <u>*saving*</u> the **old transactions to database**.
+- The *checkpoint marks* the *position till* *where* the **consistency** of the *transactions* is *maintained*.

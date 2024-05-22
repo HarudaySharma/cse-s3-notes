@@ -1,0 +1,5 @@
+- [Inefficiency](Inefficiency-in-Message-switching.md)
+- [Latency](Latency-in-Message-switching.md)
+- [Scalability](Scalability-in-Message-switching.md)
+- [Lack of error recovery](Lack-of-error-recovery-in-Message-switching.md)
+- [Resource allocation](Resource-allocation-in-Message-switching.md)

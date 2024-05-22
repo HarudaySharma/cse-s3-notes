@@ -1,0 +1,3 @@
+- HTTP stands for Hypertext transfer protocol.
+- This protocol allows us to access the data over the world wide web.
+- It transfers the data in the form of plain text, audio, video.
