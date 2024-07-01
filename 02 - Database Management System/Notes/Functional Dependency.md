@@ -11,9 +11,3 @@
 ##### *[[Example of Functional Dependency|Example]]*
 ---
 ##### *[[Types of Functional Dependencies]]*
----
-
----
-
----
-

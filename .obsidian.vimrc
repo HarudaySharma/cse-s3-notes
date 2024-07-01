@@ -1,8 +1,6 @@
 " Leader Key
 unmap <Space>
 
-nmap j gj
-nmap k gk
 
 exmap surround_wiki surround [[ ]]
 exmap surround_double_quotes surround " "

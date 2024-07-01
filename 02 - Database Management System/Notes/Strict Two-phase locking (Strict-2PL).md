@@ -5,4 +5,4 @@ The first phase of Strict-2 PL is similar to 2 PL.
 - Strict-2 PL *waits for* the *whole transaction* to **commit**, and then it **releases all** the **locks at a time**.
 - Strict-2 PL protocol *does not have* **shrinking phase** of lock release.
 
-![[Pasted image 20231127104047.png]]
+![[Pasted image 20231127104047.png|500]]

@@ -13,4 +13,4 @@ The *file system* is basically a way of *arranging the files in* a ***storage me
 	*HFS* `(Hierarchal File System)`
 
 *file system*
-![[Pasted image 20230814194708.png]]
+![[Pasted image 20230814194708.png|500]]

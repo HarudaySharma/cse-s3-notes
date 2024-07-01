@@ -4,7 +4,7 @@
 - therefore, the user can <span style="color:#00ff96">directly sit on the DBMS and use it</span> as it is.
 
 *DBMS 1-Tier Architecture*
-![[DBMS-1-Tier-Architecture.webp]]
+![[DBMS-1-Tier-Architecture.webp|500]]
 
 
 #### *[[Advantages of 1-Tier Architecture]]*

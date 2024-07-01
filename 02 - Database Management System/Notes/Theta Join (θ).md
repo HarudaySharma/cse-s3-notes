@@ -4,8 +4,8 @@
 
 >[!note] Notation : <span style="color:#ff00ff">R ⋈θ S</span>
 >*where*
->><span style="color:#fffd01">R</span> is <span style="color:#00ff96">first relation</span>
->><span style="color:#fffd01">S</span> is <span style="color:#00ff96">second relation</span>
+><span style="color:#fffd01">R</span> is <span style="color:#00ff96">first relation</span>
+><span style="color:#fffd01">S</span> is <span style="color:#00ff96">second relation</span>
  
 #### [[Example of Theta Join (θ)]]
 

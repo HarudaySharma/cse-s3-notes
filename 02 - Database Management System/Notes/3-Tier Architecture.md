@@ -4,6 +4,6 @@
 
 - This type of architecture is **<span style="color:#01ff07">used in</span> the <span style="color:#01ff07">case of large web applications</span>.**
 
-![[hevyrxe8.png]]
+![[hevyrxe8.png|500]]
 #### *[[Advantages of 3-Tier Architecture]]*
 

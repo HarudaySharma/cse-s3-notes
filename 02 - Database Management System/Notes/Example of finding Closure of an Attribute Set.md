@@ -5,11 +5,11 @@
 >	- <span style="color:#fffd01">D → F</span>
 >	- <span style="color:#fffd01">CF → G</span>
 >
-> ![[Pasted image 20231020090651.png]]
+> ![[Pasted image 20231020090651.png|500]]
 >*Hence :-*
 >	**<span style="color:#fffd01">A+ = { A, B, C, D, E, F , G }</span>**
 >---
-> ![[Pasted image 20231020091037.png]]
+> ![[Pasted image 20231020091037.png|500]]
 > *Hence :-*
 >	**<span style="color:#fffd01">{ B, C }+ = { B, C, D, E, F, G }</span>**
 

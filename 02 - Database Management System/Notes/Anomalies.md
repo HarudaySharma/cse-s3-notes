@@ -3,5 +3,3 @@
 #### *[[When does Anomalies occurs]] ?*
 
 #### *[[Types of Anomalies]]*
-
-

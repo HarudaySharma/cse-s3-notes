@@ -4,4 +4,4 @@ this property *ensures* :
 In <u>other words</u>,
 - it *ensures* that the *database* remains **consistent** *before* and *after* the *transaction*. 
 
->[!tip] *It is the responsibility of DBMS and application programmer to ensure the consistency of the database.*
+>[!tip] It is the responsibility of DBMS and application programmer to ensure the consistency of the database.

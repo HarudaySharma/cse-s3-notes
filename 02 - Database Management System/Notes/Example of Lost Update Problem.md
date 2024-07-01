@@ -1,5 +1,5 @@
 >[!example] 
-> ![[Pasted image 20231127094740.png]]
+> ![[Pasted image 20231127094740.png|400]]
 >*Here,*
 >1. `T 1` **reads** the value of `A (= 10 say)`.
 >2. `T 1` **updates** the value to `A (= 15 say)` in the *buffer*.

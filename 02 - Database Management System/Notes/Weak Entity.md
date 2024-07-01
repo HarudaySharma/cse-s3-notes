@@ -7,4 +7,4 @@
 
 They are<span style="color:#00ff4b; font-weight : bold;"> represented by DOUBLE RECTANGLE</span>.
 
-![[Pasted image 20230906190045.jpg]]
+![[Pasted image 20230906190045.jpg|400]]

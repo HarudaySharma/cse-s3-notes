@@ -6,8 +6,7 @@
 >- <span style="color:#fffd01">AB</span> -> <span style="color:#fffd01">C</span>
 >
 > ![[Pasted image 20231020131638.png]]
-> ![[Pasted image 20231020131719.png]]
-> ![[Pasted image 20231020131809.png]]
-> ![[Pasted image 20231020131840.png]]
->![[Pasted image 20231020132032.png]]
-
+> ![[Pasted image 20231020131719.png|500]]
+> ![[Pasted image 20231020131809.png|500]]
+> ![[Pasted image 20231020131840.png|500]]
+>![[Pasted image 20231020132032.png|500]]

@@ -3,5 +3,5 @@
 - ***<span style="color:#fffd01">Candidate Key</span>*** is a ***<span style="color:#fffd01">Super Key</span>*** with ***<span style="color:#fffd01">no Repeated Attributes</span>***.
 - *Primary key* is <span style="color:#fffd01">selected</span> from <span style="color:#fffd01">Candidate key</span>.
 
-![[Pasted image 20230913072623.png]]
-![[Pasted image 20230913072625.png]]
+![[Pasted image 20230913072623.png|500]]
+![[Pasted image 20230913072625.png|300x300]]

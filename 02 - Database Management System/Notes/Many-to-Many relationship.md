@@ -1,7 +1,7 @@
 - M: N relationship represents the relationship between `M` instances of one entity and `N` instances of another entity.
 #### [[Example of many-to-many relationship]]
 
-![[Pasted image 20230906171334.png]]
+![[Pasted image 20230906171334.png|400]]
 
 <span style="color:#ffff00; font-style: italic; font-weigth: 500">Keep in mind when making tables</span>
 - ***In M : N relationships, the relationship is represented by a completely new table that has a composite primary key.***

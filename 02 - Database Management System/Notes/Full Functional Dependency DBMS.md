@@ -6,7 +6,3 @@
 *in simple words:*
 	*if  <span style="color:#fffd01">X</span> is <span style="color:#00ffff">removed</span> we <span style="color:#00ffff">cannot define</span> <span style="color:#fffd01">Y</span>*
 ##### *[[Example of Full Functional Dependency DBMS|Example]]*
-
-
-
-

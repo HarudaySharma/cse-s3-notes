@@ -5,7 +5,8 @@
 >- Boyce-Codd Normal Form (3.5 BNF)
 >- Fourth Normal Form (4 NF)
 >- Fifth Normal Form (5 NF)
-![[Pasted image 20231122043920.png]]
+>
+>![[Pasted image 20231122043920.png|600]]
 
 ##### *[[1 St Normal Form (1 NF) {Normalization}|1 NF]]*
 ##### *[[2 nd Normal Form (2 NF) {Normalization}|2 NF]]*

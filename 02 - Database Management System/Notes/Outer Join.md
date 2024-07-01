@@ -8,6 +8,6 @@
 ##### [[Full Outer Join]]
 
 *R and S are two relations*
-![[Screenshot 2023-10-03 075109.png]]
+![[Screenshot 2023-10-03 075109.png|500]]
 
 #joinOperationsTypes 

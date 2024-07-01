@@ -4,5 +4,3 @@
 ##### *Merits of Concurrent Execution ->*
 ###### 1 . [[Improved throughput and resource utilization (Concurrent Execution of Transaction)|Improved throughput and resource utilization]] 
 ###### 2 . [[Reduce waiting time (Concurrent Execution of Transaction)|Reduce waiting time]]
-
-

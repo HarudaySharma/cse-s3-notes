@@ -1,7 +1,7 @@
 In DBMS,
 	Schedules may have the following *three different kinds* of *equivalence relations* among them :-
 
-![[Pasted image 20231124061942.png]]
+![[Pasted image 20231124061942.png|500]]
 
 ##### 1. *[[Result Equivalent Schedules]]* 
 ##### 2. *[[Conflict Equivalent Schedules]]* 
@@ -9,7 +9,3 @@ In DBMS,
 
 ---
 #### *[[Problems based on Equivalence of Schedules]]*
-
-
-
-

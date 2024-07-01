@@ -5,4 +5,3 @@
 >- It is <span style="color:#00ffcc">used</span> to <span style="color:#00ffcc">infer all</span> the <span style="color:#00ffcc">functional dependencies</span> <span style="color:#00ffcc">on</span> a <span style="color:#00ffcc">relational database</span>.
 
 #### *[[Axioms Inference Rules]]*
-

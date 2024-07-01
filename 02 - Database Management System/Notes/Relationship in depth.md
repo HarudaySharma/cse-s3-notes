@@ -1,4 +1,3 @@
-
 ### [[What is a relationship]] ?
 
 ### [[Cardinality of relationship]]

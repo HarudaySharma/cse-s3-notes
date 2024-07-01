@@ -1,4 +1,5 @@
 - All the values of an attribute must belong to the same domain.
-- *for example :*
-	- A student's name cannot be Numeric value, has to alphabetic.
-	- Age cannot be negative, etc.
+
+>[!example] for example
+>- A student's name cannot be Numeric value, has to alphabetic.
+>- Age cannot be negative, etc.

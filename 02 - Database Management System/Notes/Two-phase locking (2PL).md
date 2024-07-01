@@ -13,11 +13,11 @@ The two-phase locking protocol divides the **execution** phase *of* the *transac
 >[!note] 
 >It is true that the 2 PL protocol offers serializability. 
 >However, it does not ensure that deadlocks do not happen.
-> 	![[Pasted image 20231127102529.png]]
+>
+>![[Pasted image 20231127102529.png|400]]
+>
 >In the above-given diagram,
 >you can see that local and global deadlock detectors are searching for deadlocks and solve them with resuming transactions to their initial states.
 
 ##### *[[Static (Conservative) Two Phase Locking]]*
 ##### *[[Dynamic Two Phase Locking]]*
-
-

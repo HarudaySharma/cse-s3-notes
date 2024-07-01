@@ -9,4 +9,4 @@
 >	- Marks → Grade
 >	- S#, C# → Grade
 
-![[Pasted image 20231019153635.png]]
+![[Pasted image 20231019153635.png|600]]

@@ -5,4 +5,4 @@
 	- Not all entities are involved in the relationship.
 	- Represented by **single lines**.
 
-![[Pasted image 20230906171746.png]]
+![[Pasted image 20230906171746.png|400]]

@@ -7,5 +7,5 @@
 	*for example :*
 		an *<span style="color:#01ff07">in-house</span>* customer relationship management *(<span style="color:#01ff07">CRM</span>)* that <span style="color:#01ff07">connects</span> to an *<span style="color:#01ff07">Access database</span>*.
 
-![[Pasted image 20230820083239.png]]
+![[Pasted image 20230820083239.png|500x300]]
 ##### *[[Advantages of 2-Tier Architecture]]*

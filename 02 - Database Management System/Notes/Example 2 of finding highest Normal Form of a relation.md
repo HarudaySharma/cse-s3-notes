@@ -13,6 +13,3 @@
 >	- The relation is not in 3 rd normal form because in BC->D (neither BC is a super key nor D is a prime attribute) and in B->E (neither B is a super key nor E is a prime attribute) but to satisfy 3 rd normal for, either LHS of an FD should be super key or RHS should be a prime attribute. 
 >
 >**So the highest normal form of relation will be the 2 nd Normal form**. 
-
-
-

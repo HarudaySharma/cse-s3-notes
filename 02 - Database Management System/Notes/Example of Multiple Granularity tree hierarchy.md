@@ -1,3 +1,4 @@
+
 >[!example] 
 >- Consider a tree which has four levels of nodes.
 >- The first level or higher level shows the entire database.
@@ -14,4 +15,4 @@
 >	- Record
 >
 >*in this tree the highest level shows the entire database. The levels below are file, record, and fields.*
-![[Pasted image 20231127111426.png]]
+![[Pasted image 20231127111426.png|400]]

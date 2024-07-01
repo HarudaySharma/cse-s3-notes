@@ -10,4 +10,4 @@
 		2. It can <u>*kill*</u> the *program*,
 			- If the transaction was aborted because of internal and logical error that can be corrected only by rewriting the application program.
 
-![[Life cycle of a Transaction-Transaction-DR-03]]
+![[Life cycle of a Transaction-Transaction-DR-03|center]]

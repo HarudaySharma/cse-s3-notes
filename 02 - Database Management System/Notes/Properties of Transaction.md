@@ -6,11 +6,3 @@
 #### 2. *[[Consistency-Transaction Properties|Consistency]]*
 #### 3. *[[Isolation-Transaction Properties|Isolation]]*
 #### 4. *[[Durability-Transaction Properties|Durability]]*
-
-
-
-
-
-
-
-

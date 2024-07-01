@@ -3,8 +3,8 @@
 
 #### *Types of Integrity Rules / Constraints* :
 
-1. [[Entity Integrity Constraint]].
-2. [[Referential Integrity Constraint]].
-3. [[Domain Integrity Constraint]].
-4. [[Key Integrity Constraint]].
-5. [[User-Defined Integrity]]
+###### 1. [[Entity Integrity Constraint]].
+###### 2. [[Referential Integrity Constraint]].
+###### 3. [[Domain Integrity Constraint]].
+###### 4. [[Key Integrity Constraint]].
+###### 5. [[User-Defined Integrity]]

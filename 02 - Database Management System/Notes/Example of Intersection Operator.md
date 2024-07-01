@@ -4,5 +4,6 @@
 ∏ NAME(STUDENT) ∩ ∏ NAME(EMPLOYEE)
 ```
 
-![[Screenshot 2023-10-03 080620.png]]
+![[Screenshot 2023-10-03 080620.png|700]]
+
 

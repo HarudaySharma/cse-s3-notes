@@ -12,8 +12,3 @@
 >	- The relation is not in the 2 nd Normal form because A->D is partial dependency (A which is a subset of candidate key AC is determining non-prime attribute D) and the 2 nd Normal form does not allow partial dependency.
 >
 >**So the highest normal form will be the 1 st Normal Form**.
-
-
-
-
-

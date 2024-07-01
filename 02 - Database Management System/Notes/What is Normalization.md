@@ -1,3 +1,4 @@
+
 >[!note] *Normalization is the process of ->*
 >- reorganizing data in a database so that it meets two basic requirements:
 >	- There is no redundancy of data.

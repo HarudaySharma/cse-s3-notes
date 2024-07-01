@@ -3,5 +3,4 @@
 EMPLOYEE ⟗EMPLOYEE.E_NO = DEPARTMENT.E_NO DEPARTMENT
 ```
 
-![[Screenshot 2023-10-03 080209.png]]
-
+![[Screenshot 2023-10-03 080209.png|700]]

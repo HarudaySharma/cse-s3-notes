@@ -2,4 +2,4 @@
 - Relationships are established by foreign keys.
 
 *representation in er diagram*
-![[Pasted image 20230906190217.jpg]]
+![[Pasted image 20230906190217.jpg|400]]

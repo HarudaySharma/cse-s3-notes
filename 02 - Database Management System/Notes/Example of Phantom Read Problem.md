@@ -1,5 +1,5 @@
 >[!example] 
-> ![[Pasted image 20231127095117.png]]
+> ![[Pasted image 20231127095117.png|400]]
 >*Here*,
 >1. T 1 reads X.
 >2. T 2 reads X.

@@ -6,7 +6,3 @@
 >- <span style="color:#00ffcc">Partial dependency</span> refers to a <span style="color:#00ffcc">situation</span> in which a <span style="color:#fffd01">non-key attribute</span> in a relational <span style="color:#00ffcc">database table</span> <span style="color:#00ffcc">depends only</span> on <span style="color:#00ffcc">part</span> of the <span style="color:#fffd01">primary key</span>, <span style="color:#00ffcc">instead</span> of the <span style="color:#fffd01">entire key</span>.
 
 ##### *[[Example of Partial Functional Dependency DBMS|Example]]*
-
-
-
-

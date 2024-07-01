@@ -3,5 +3,3 @@
 ##### 2. [[Partial Functional Dependency DBMS|Partial Functional Dependency]]
 ##### 3. [[Transitive Functional Dependency DBMS|Transitive Functional Dependency]]
 ##### 4. [[Trivial & Non-Trivial Functional Dependency DBMS|Trivial & Non-Trivial Functional Dependency]]
-
-

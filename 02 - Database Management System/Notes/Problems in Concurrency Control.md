@@ -2,12 +2,8 @@ When *multiple* transactions *execute concurrently* in an **uncontrolled** or **
 
 Such *problems* are called as **concurrency problems**.
 
-![[Pasted image 20231127093537.png]]
+![[Pasted image 20231127093537.png|500]]
 ##### *1. [[Dirty Read Problem]]*
 ##### *2. [[Unrepeatable Read Problem]]*
 ##### *3. [[Lost Update Problem]]*
 ##### *4. [[Phantom Read Problem]]*
-
-
-
-

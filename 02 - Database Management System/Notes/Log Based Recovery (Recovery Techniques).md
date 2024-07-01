@@ -23,5 +23,3 @@
 
 >[!note] *Note*
 >The most widely used technique for Database recovery is log based recovery.
-
-

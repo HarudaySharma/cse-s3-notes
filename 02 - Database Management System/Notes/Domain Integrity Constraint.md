@@ -5,4 +5,4 @@
 	- Is *<span style="color:#fffd01">null allowed</span>* or *<span style="color:#fffd01">not</span>*
 	- Should the *<span style="color:#fffd01">values</span>* be *<span style="color:#fffd01">unique</span>* for an attribute or *<span style="color:#fffd01">not</span>*.
 
-![[Screenshot 2023-09-13 080631.png]]
+![[Screenshot 2023-09-13 080631.png|500]]

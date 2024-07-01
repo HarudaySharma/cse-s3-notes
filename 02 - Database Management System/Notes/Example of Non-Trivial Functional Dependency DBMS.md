@@ -1,5 +1,5 @@
 >[!example] 
-> ![[Pasted image 20231020075013.png]]
+> ![[Pasted image 20231020075013.png|500]]
 > 
 >*Here*,
 >

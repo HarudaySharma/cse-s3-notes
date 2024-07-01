@@ -3,4 +3,4 @@ Before initiating an execution of the transaction, it requests DBMS for all the 
 If all the locks are granted then this protocol allows the transaction to begin. When the transaction is completed then it releases all the lock.
 If all the locks are not granted then this protocol allows the transaction to rolls back and waits until all the locks are granted.
 
-![[Pasted image 20231127102005.png]]
+![[Pasted image 20231127102005.png|500]]

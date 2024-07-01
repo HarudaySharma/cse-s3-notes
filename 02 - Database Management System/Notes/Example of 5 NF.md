@@ -1,5 +1,5 @@
 >[!example] 
-> ![[Pasted image 20231203211957.png]]
+> ![[Pasted image 20231203211957.png|500]]
 >Decomposed into three tables
 >- Ename, Eskills
 >- Ename, Ejob

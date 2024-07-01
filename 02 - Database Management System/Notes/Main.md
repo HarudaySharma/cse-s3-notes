@@ -10,10 +10,10 @@ cssclasses:
 ---
 ### *DBMS allows users the following tasks:*
 
--  **[[Data Definition]]** 
- - **[[Data Updation]]**
- - **[[Data Retrieval]]** 
- - **[[User Administration]]**
+- **[[Data Definition]]** 
+- **[[Data Updation]]**
+- **[[Data Retrieval]]** 
+- **[[User Administration]]**
 
 ---
 ### *Advantages of using DBMS:*
@@ -47,7 +47,6 @@ cssclasses:
 
 ---
 
-
 ### *DBMS Architecture :*
 
 #### *[[What is a DBMS Architecture]]* ?
@@ -72,7 +71,6 @@ cssclasses:
 #### What are *[[Instances]]*?
 
 #### *[[Three Schema Architecture]]*
-
 
 --- 
 ### *Data Independence :*
@@ -113,7 +111,6 @@ cssclasses:
 #### *[[Purpose of Normalization]]*
 #### *[[Levels of Normalization]]*
 ---
-%%Light mode can be used from here%%
 ## *Transaction*
 
 #### *[[What is Transaction]]*
@@ -123,8 +120,6 @@ cssclasses:
 ### *[[Schedules (Transaction)|Schedules]]*
 ### *[[Recoverability]]*
 ### *[[Concurrency Control]]*
-
-
 
 ---
 

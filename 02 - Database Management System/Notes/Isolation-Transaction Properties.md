@@ -4,5 +4,5 @@ this property *ensures* :
 - **Changes** *made* by a *transaction* become **visible** to *<u>other transactions</u>* only *after* they are **written** **in** the **memory**.
 - The *resultant state* of the *system* after *executing all* the *transactions* is the **same** as the *state* that *would be* achieved *if* the *transactions* were *executed serially* one after the other.
 
->[!tip] *It is the responsibility of the concurrency control manager to ensure isolation for all the transactions.*
+>[!tip] It is the responsibility of the concurrency control manager to ensure isolation for all the transactions.
 

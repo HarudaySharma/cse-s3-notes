@@ -12,4 +12,3 @@ After finishing all the operations on all the data items, it releases all the lo
 >Write Y
 >Unlock (Y)
 >Unlock (X)
-

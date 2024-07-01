@@ -2,8 +2,6 @@
 
 - Notation comprises of four symbols and one of them needs to be used for each entity in a relationship.
 
-![[Pasted image 20230906164450.png]]
+![[Pasted image 20230906164450.png|400]]
 
 #### [[Example of cross foot notation]]
-
-

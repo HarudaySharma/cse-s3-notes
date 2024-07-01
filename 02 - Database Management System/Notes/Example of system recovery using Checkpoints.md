@@ -1,5 +1,5 @@
 >[!example]
-> ![[Pasted image 20231127085351.png]]
+> ![[Pasted image 20231127085351.png|500]]
 ><u>*steps performed for system recovery :-*</u>
 >- The transaction log file are read in the *reverse order*, ie., from **T 4 to T 1**.
 >- Redo and Undo are the lists that are created and maintained by the system.

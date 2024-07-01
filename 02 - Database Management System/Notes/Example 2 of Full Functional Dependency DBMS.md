@@ -1,5 +1,6 @@
 > [!example] 
->![[Pasted image 20231019155309.png]]
+>
+>![[Pasted image 20231019155309.png|500]]
 >*As per the above definition:*
 >
 >- Here in <span style="color:#00ffff">relation</span> <span style="color:#fffd01">R</span> having <span style="color:#00ffff">attributes</span> <span style="color:#fffd01">X</span>, <span style="color:#fffd01">Y</span>
@@ -9,4 +10,4 @@
 
 >[!example] *here in this relation*
 
-![[Pasted image 20231020072705.png]]
+![[Pasted image 20231020072705.png|600]]

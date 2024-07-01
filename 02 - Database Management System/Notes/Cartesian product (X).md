@@ -8,6 +8,3 @@
 #### [[Example of Cartesian Product]]
 
 #basicOperationsRA
-
-
-

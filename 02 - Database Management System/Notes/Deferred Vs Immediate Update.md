@@ -1,1 +1,1 @@
-![[Pasted image 20231126164627.png]]
+![[Deferred Vs Immediate Update 2024-07-01 05.58.59.excalidraw|1000center]]

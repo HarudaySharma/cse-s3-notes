@@ -4,4 +4,4 @@
 - The conceptual level ***<span style="color:#00ffff">describes</span>*** ***<span style="color:#fffd01">what data to be stored</span>*** in the database and also describes what ***<span style="color:#fffd01">relationship</span>*** exists **<span style="color:#fffd01">among</span>** those **<span style="color:#fffd01">data</span>**.
 - In this level, ***<span style="color:#00ffff">internal details</span>*** such as an ***<span style="color:#00ffff">implementation</span>*** of the ***<span style="color:#00ffff">data structure</span>*** are ***<span style="color:#00ffff">hidden</span>***.
 
-![[Pasted image 20230913140000.png]]
+![[Pasted image 20230913140000.png|500]]

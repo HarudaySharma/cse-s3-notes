@@ -1,1 +1,1 @@
-An RDBMS <mark style="background: #BBFABBA6;">stores data in tables with rows and columns</mark>, and ***uses SQL (Structured Query Language) to manipulate the data.***
+An RDBMS ==stores data in tables with rows and columns==, and ***uses SQL (Structured Query Language) to manipulate the data.***
