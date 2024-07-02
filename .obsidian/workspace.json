@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - HOME.md",
+                "file": "02 - Database Management System/Notes/Main.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5086555480957,
-    "collapsed": true
+    "width": 222.5086555480957
   },
   "right": {
     "id": "8d4f179bdce6ece6",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - HOME.md"
+                "file": "02 - Database Management System/Notes/Main.md"
               }
             }
           },
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - HOME.md",
+                "file": "02 - Database Management System/Notes/Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - HOME.md",
+                "file": "02 - Database Management System/Notes/Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 - HOME.md"
+                "file": "02 - Database Management System/Notes/Main.md"
               }
             }
           },
@@ -185,11 +184,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false,
       "zk-prefixer:Create new unique note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "eabe6648a226ade5",
