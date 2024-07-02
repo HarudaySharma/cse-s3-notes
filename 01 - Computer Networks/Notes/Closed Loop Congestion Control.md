@@ -5,8 +5,3 @@ Several techniques are used by different protocols to achieve this :-
 ##### 2. *[[Choke Packet Technique]]*
 ##### 3. *[[Implicit Signaling]]*
 ##### 4. *[[Explicit Signaling]]*
-
-
-
-
-

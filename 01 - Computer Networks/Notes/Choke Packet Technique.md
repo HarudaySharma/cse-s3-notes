@@ -6,4 +6,4 @@ It is a technique :-
 	- the router directly sends a choke packet to the source giving it a feedback to reduce the traffic.
 	- The intermediate nodes through which the packets has travelled are not warned about congestion.
 
-![[Pasted image 20231121044622.png]]
+![[Pasted image 20231121044622.png|800]]

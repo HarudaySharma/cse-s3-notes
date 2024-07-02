@@ -11,4 +11,4 @@
 - The server socket address.
 	- To make a connection.%%
 
-![[Pasted image 20231120165801.png]]
+![[Pasted image 20231120165801.png|600]]

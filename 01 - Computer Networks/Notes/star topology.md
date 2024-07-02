@@ -3,7 +3,7 @@
 - controller acts as an [[exchange]].
 
 *star topology* 
-![[Pasted image 20230813162304.jpg]] 
+![[Pasted image 20230813162304.jpg|400]] 
 
 **Advantages :-**
 1.  less expensive than a mesh topology.

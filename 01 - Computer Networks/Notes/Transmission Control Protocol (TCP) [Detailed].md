@@ -5,7 +5,3 @@
 ##### *[[Advantages of TCP Protocol]]*
 ##### *[[Disadvantages of TCP Protocol]]*
 ##### *[[TCP Header Format]]*
-
-
-
-

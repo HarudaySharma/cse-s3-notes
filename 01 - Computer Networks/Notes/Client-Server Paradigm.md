@@ -6,4 +6,4 @@
 >	- we *need* a <u>Daytime</u> **client process** running *on* the <u>*local host*</u> and
 >	- a <u>Daytime</u> **server process** running *on* a <u>*remote machine*</u>.
 
-![[Pasted image 20231120163106.png]]
+![[Pasted image 20231120163106.png|700]]

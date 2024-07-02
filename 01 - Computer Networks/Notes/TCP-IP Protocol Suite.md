@@ -3,7 +3,7 @@
 - This model defines a *four-layer model*.
 
 *TCP/IP When compared with OSI Model*
-![[OSI-vs-TCP-vs-Hybrid-2.webp]]
+![[OSI-vs-TCP-vs-Hybrid-2.webp|600]]
 
 #### ***Layers in TCP/IP Protocol Suite :-*** 
 

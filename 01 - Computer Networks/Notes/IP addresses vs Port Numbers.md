@@ -3,4 +3,4 @@
 	- *After* the *host* has been *selected*,
 		- The **port number** *defines* *one* of the *processes* on this *particular host*.
 
-![[Pasted image 20231120164116.png]]
+![[Pasted image 20231120164116.png|500]]

@@ -1,4 +1,4 @@
-![[Pasted image 20231121061313.png]]
+![[Pasted image 20231121061313.png|600]]
 
 *detailed information :-*
 - **Source port**:

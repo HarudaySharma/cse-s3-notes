@@ -3,4 +3,4 @@
 - In this **environment** the *capacity of channel* is *shared*, either ***[[spatially]] or [[ temporally]]***.
 
 *multipoint*
-![[multipoint.jpg]]
+![[multipoint.jpg|700]]

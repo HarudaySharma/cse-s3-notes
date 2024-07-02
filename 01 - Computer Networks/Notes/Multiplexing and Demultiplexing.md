@@ -13,4 +13,4 @@
 	 - After *error checking* and *dropping* of the *header*,
 		 - the transport layer **delivers** each *message* to the *appropriate* *process* based *on* the **port number**.
 
-![[Pasted image 20231120171001.png]]
+![[Pasted image 20231120171001.png|500]]

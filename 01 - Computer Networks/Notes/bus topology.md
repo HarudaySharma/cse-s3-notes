@@ -3,7 +3,7 @@
 - here is a limit on the number of taps a bus can support and on the distance between those [[taps]].
 - The most common <span style="color:#00ffff">access method</span> is [[CSMA]] in bus topology.
 *bus topology* 
-![[Pasted image 20230813162344.jpg]] 
+![[Pasted image 20230813162344.jpg|400]] 
 
 **Advantages :-**
 1. ease of installation.

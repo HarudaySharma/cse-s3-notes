@@ -14,4 +14,4 @@ If the application *program* does **not need reliability**
 	- The nature of the *service* does **not demand** *flow* and *error control* (==real-time applications==),
 	- then an *unreliable protocol* can be *used*. (**UDP**)
 
-![[Pasted image 20231120175440.png]]
+![[Pasted image 20231120175440.png|700]]

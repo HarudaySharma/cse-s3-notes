@@ -6,5 +6,5 @@
 >- IP address is fetched through server.
 >- Through RARP, (48-bit) MAC address of 48 bits mapped into (32-bit) IP address
 
-![[Pasted image 20231016185613.png]]
+![[Pasted image 20231016185613.png|500]]
 #### [[Difference between ARP and RARP in Tabular Format|Difference between ARP and RARP]]

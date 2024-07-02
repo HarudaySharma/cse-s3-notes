@@ -5,7 +5,7 @@
 		*physical links* = `n * (n - 1) / 2`
 
 *mesh topology* 
-![[Pasted image 20230813162208.jpg]]
+![[Pasted image 20230813162208.jpg|400]]
 
 **Advantages :-**
 1. there is no traffic in data comm. due to `pt` to `pt` links.
@@ -18,6 +18,6 @@
 2. the number of I/O ports required.
 3. makes it **Expensive**.
 
-***example of mesh topology :*** 
-	*connection of telephone regional offices
-		 each regional office needs to be  connected to every other regional office.*
+>[!example] example of mesh topology :  
+>connection of telephone regional offices
+>- each regional office needs to be  connected to every other regional office.

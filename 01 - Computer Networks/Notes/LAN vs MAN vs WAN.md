@@ -1,6 +1,6 @@
 
 |   <span style="color:#00ffff">Aspect</span>    |              <span style="color:#00ffff">LAN</span>              |           <span style="color:#00ffff">MAN</span>           |                   <span style="color:#00ffff">WAN</span>                    |
-|:----------------------------------------------:|:----------------------------------------------------------------:|:----------------------------------------------------------:|:---------------------------------------------------------------------------:|
+| :--------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------: | :-------------------------------------------------------------------------: |
 |                                                |                                                                  |                                                            |                                                                             |
 |    <span style="color:#00ffcc">Area</span>     | contained within a small geographic area, like:- houses, offices | contained within medium-sized areas, like:- campus, cities | these are used over a large geographical area like:- countries, continents. |
 | <span style="color:#00ffcc">Data Rates</span>  |             high data transfer rate (100-1000 MBPS)              |                Moderate - High data rates.                 |                               Low data rates                                |

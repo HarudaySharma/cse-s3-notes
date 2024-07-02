@@ -13,4 +13,4 @@
 - *As* we know that **TCP** is a *connection-oriented protocol*,
 	- So the *connection* will *remain established* until the *communication* is *not completed* between the *sender* and the *receiver*.
 
-![[Pasted image 20231121061034.png]]
+![[Pasted image 20231121061034.png|700]]

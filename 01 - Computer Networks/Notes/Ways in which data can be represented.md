@@ -1,1 +1,0 @@
-Data can be represented in different forms, some of the most common form of data seen nowadays are ***text, numbers, images, audio and video***.

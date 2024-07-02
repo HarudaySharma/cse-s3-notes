@@ -7,4 +7,4 @@
 		are also available.
 		
 *point-to-point*
-![[point to point.png]]
+![[point to point.png|700]]

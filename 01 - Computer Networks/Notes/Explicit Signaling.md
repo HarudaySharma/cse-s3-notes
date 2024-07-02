@@ -7,4 +7,3 @@ In explicit signaling :-
 >[!important] *Explicit signaling can occur in either forward or backward direction.*
 >- [[Forward Signaling (Explicit Signaling CLCC|Forward Signaling]]
 >- [[Backward Signaling (Explicit Signaling CLCC|Backward Signaling]]
-

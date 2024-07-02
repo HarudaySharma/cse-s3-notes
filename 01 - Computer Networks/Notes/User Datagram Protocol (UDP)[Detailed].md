@@ -4,5 +4,3 @@
 ##### *[[UDP Header Format]]*
 ##### *[[Applications using UDP]]*
 ##### *[[Question on UDP Header Format]]*
-
-

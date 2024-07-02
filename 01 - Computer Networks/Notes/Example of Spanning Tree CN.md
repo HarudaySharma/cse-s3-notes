@@ -3,7 +3,7 @@
 > - and the learning bridges `B 1, B 2, B 3`.
 > - Assume, that they have empty forwarding tables to begin with and keep on adding entries based on the events.
 > 
-> ![[Pasted image 20231120152646.png]]
+> ![[Pasted image 20231120152646.png|400]]
 
 >[!question] Suppose host X sends a packet to W. 
 >- Which bridges learn the location of host X (i.e., which of the bridge’s interfaces should traffic destined to X be directed)?

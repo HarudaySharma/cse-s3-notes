@@ -1,4 +1,4 @@
-![[Pasted image 20231016184345.png]]
+![[Pasted image 20231016184345.png|920]]
 >[!note] 
 >- _**VERSION:**_ Version of the IP protocol (4 bits), which is 4 for IPv4 
 >- _**HLEN:**_ IP header length (4 bits), which is the number of 32 bit words in the header. The minimum value for this field is 5 and the maximum is 15. 

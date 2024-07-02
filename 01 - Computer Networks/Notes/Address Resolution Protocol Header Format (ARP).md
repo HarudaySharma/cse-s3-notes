@@ -1,4 +1,4 @@
-![[Pasted image 20231016184956.png]]
+![[Pasted image 20231016184956.png|600]]
 
 
 >[!note] 

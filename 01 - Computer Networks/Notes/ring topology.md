@@ -2,7 +2,7 @@
 - The most used <span style="color:#00ffff">Access method</span> is <span style="color:#00ffff">Token passing</span> in ring topology.
 
 *ring topology* 
-![[Pasted image 20230813162418.jpg]]
+![[Pasted image 20230813162418.jpg|400]]
 
 **Advantages :** 
 1. relatively easy to install and reconfigure.
@@ -13,5 +13,4 @@
 **Disadvantages :** 
 1. [[unidirectional traffic]], but can be solved by using **dual ring** or **switch** capable of closing off the break.
 
-***Ring topology was prevalent when IBM introduced its local-area network Token
-Ring .***
+***Ring topology was prevalent when IBM introduced its local-area network Token Ring .***

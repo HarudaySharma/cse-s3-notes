@@ -8,4 +8,4 @@
 - In this way,
 	- the *connection* is *established* between the **client** and the **server**.
 
-![[Pasted image 20231121060925.png]]
+![[Pasted image 20231121060925.png|500]]

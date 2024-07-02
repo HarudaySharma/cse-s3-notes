@@ -8,5 +8,6 @@ it is a technique in which :-
 >- the 3 rd node is congested and stops receiving packets
 >- as a result, 2nd node may be get congested due to slowing down of the output data flow.
 >- Similarly 1st node may get congested and inform the source to slow down.
-> ![[Pasted image 20231121044328.png]]
+>
+> ![[Pasted image 20231121044328.png|800]]
 

@@ -1,4 +1,4 @@
-![[Pasted image 20230912105104.png]]
+![[Pasted image 20230912105104.png|600]]
 
 - ### [[Circuit Switching]]
 - ### [[Message Switching]]

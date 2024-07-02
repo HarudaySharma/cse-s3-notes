@@ -1,6 +1,5 @@
 These techniques is classified into *two categories*:
- ![[Pasted image 20231120175859.png]]
+
+![[Pasted image 20231120175859.png|500]]
 #### 1. *[[Open Loop Congestion Control]]*
 #### 2. *[[Closed Loop Congestion Control]]*
-
-

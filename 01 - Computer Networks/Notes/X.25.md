@@ -13,4 +13,4 @@
 2. [Frame Layer](Frame-Layer-X.25.md)
 3. [Packet Layer](Packet-Layer-X.25.md) 
 
-![[X.25 mapping osi.png]]
+![[X.25 mapping osi.png|700]]

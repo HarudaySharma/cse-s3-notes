@@ -3,6 +3,6 @@
 2. [[Registered ports (Port Numbers)|Registered ports]]
 3. [[Dynamic ports (Port Numbers)|Dynamic ports]]
 
-![[Pasted image 20231120165241.png]]
+![[Pasted image 20231120165241.png|600]]
 
 
